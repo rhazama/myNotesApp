@@ -26,5 +26,5 @@ Ryan Hazama
 n/a
 ## Questions
 Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
-Let me answer your questions at: rhazama01@gmail.com<br />
+Send any questions you may have to: rhazama01@gmail.com<br />
     
