@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-Helps the user take and store notes"
+Helps the user take and store notes
 
 ## Table of Contents
 - [Description](#description)
