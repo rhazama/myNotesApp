@@ -15,7 +15,8 @@ Helps the user take and store notes
 ## Installation
 
 ## Usage
-You can checkout the application through the following link: For users that would like to take notes and store them in one place
+You can checkout the application through the following link: https://rhazama.github.io/myNotesApp/
+<br />For users that would like to take notes and store them in one place
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
